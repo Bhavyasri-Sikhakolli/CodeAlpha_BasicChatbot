@@ -42,3 +42,5 @@ A simple rule-based chatbot developed using Python. The chatbot responds to pred
 * good morning
 * thank you
 * bye
+## Author
+Sikhakolli Bhavyasri 
